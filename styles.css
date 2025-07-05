@@ -119,7 +119,7 @@ html, body {
   padding: 5rem 2rem;
   text-align: center;
   color: #222;
-  font: proxima-nova, proxima-nova;
+  font-family: proxima-nova, Arial, sans-serif; /* Correct usage */
 }
 
 .mission-container {
@@ -169,7 +169,7 @@ html, body {
   font-size: 1rem;
   cursor: pointer;
 
-  font, proxima-nova;
+  font-family: proxima-nova, Arial, sans-serif; /* Correct usage */
 }
 
 .signup-form button:hover {
